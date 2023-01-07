@@ -31,6 +31,27 @@ public class SimpleStateMachineTest : MonoBehaviour
         
     }
 
+    public void AcceptCommand(string command)
+    {
+        switch(command){
+            case "armlift":
+                TaskOnClickb1();
+                break;
+            case "neckstretch":
+                TaskOnClickb2();
+                break;
+            case "backstretch":
+                TaskOnClickb3();
+                break;
+            case "snowangel":
+                TaskOnClickb4();
+                break;
+            case "sideneckstretch":
+                TaskOnClickb5();
+                break;
+        }
+    }
+
     void TaskOnClickb1(){
         Debug.Log("armlift geklickt");
         animator.SetFloat("Wiederholung",5.0f);
