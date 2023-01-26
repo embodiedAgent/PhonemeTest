@@ -1,0 +1,1693 @@
+fileFormatVersion: 2
+guid: a05d43ad4bb79fa45b7c58adbc65e2be
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -6990645125291118540
+    second: Armature|Arm lAction.001
+  - first:
+      74: -6986840055153273795
+    second: Armature|Arm rAction.001
+  - first:
+      74: -1422011007694221501
+    second: Armature|ArmatureAction.001
+  - first:
+      74: 7381213613971955901
+    second: Armature|Auge lAction.001
+  - first:
+      74: 7454856980985592755
+    second: Armature|Auge rAction.001
+  - first:
+      74: -5280891409095044534
+    second: Armature|Augenbraue lAction.001
+  - first:
+      74: 8101851804639273242
+    second: Armature|Augenbraue rAction.001
+  - first:
+      74: 9211155956182895477
+    second: Armature|Band lAction.001
+  - first:
+      74: -3248125511380394596
+    second: Armature|Band rAction.001
+  - first:
+      74: 355391015429048792
+    second: Armature|BauchAction.001
+  - first:
+      74: 8724703932918150197
+    second: Armature|GesichtAction.001
+  - first:
+      74: 1840961790563985066
+    second: "Armature|K\xF6rperAction.001"
+  - first:
+      74: -5622318573089550284
+    second: Armature|Lasche lAction.001
+  - first:
+      74: 961245647899714347
+    second: Armature|Lasche rAction.001
+  - first:
+      74: 4373594107378179203
+    second: Armature|LascheAction.001
+  - first:
+      74: -2281916826074817072
+    second: Armature|Pupille lAction.001
+  - first:
+      74: 731982947163944998
+    second: Armature|Pupille r.001Action.001
+  - first:
+      74: 8344210633312238504
+    second: "K\xF6rper|Arm lAction.001"
+  - first:
+      74: 1018625245831403039
+    second: "K\xF6rper|Arm rAction.001"
+  - first:
+      74: -600446642341502607
+    second: "K\xF6rper|ArmatureAction.001"
+  - first:
+      74: -3256268902865460374
+    second: "K\xF6rper|Auge lAction.001"
+  - first:
+      74: 5742211670132746766
+    second: "K\xF6rper|Auge rAction.001"
+  - first:
+      74: 721108962882193197
+    second: "K\xF6rper|Augenbraue lAction.001"
+  - first:
+      74: -4207614807526768001
+    second: "K\xF6rper|Augenbraue rAction.001"
+  - first:
+      74: -6942962730996923107
+    second: "K\xF6rper|Band lAction.001"
+  - first:
+      74: -26755301692180100
+    second: "K\xF6rper|Band rAction.001"
+  - first:
+      74: -6859553979994863140
+    second: "K\xF6rper|BauchAction.001"
+  - first:
+      74: 3125710046005103266
+    second: "K\xF6rper|GesichtAction.001"
+  - first:
+      74: 921849449954443585
+    second: "K\xF6rper|K\xF6rperAction.001"
+  - first:
+      74: 7309816948135172776
+    second: "K\xF6rper|Lasche lAction.001"
+  - first:
+      74: 2620353653373431969
+    second: "K\xF6rper|Lasche rAction.001"
+  - first:
+      74: 3198624031208078911
+    second: "K\xF6rper|LascheAction.001"
+  - first:
+      74: 3956164347362803760
+    second: "K\xF6rper|Pupille lAction.001"
+  - first:
+      74: 6642872153164020087
+    second: "K\xF6rper|Pupille r.001Action.001"
+  - first:
+      74: -6609008202538451582
+    second: Gesicht|Arm lAction.001
+  - first:
+      74: -5140601489988058802
+    second: Gesicht|Arm rAction.001
+  - first:
+      74: 7450698132541317605
+    second: Gesicht|ArmatureAction.001
+  - first:
+      74: 9107896370574955716
+    second: Gesicht|Auge lAction.001
+  - first:
+      74: 5226035574170888992
+    second: Gesicht|Auge rAction.001
+  - first:
+      74: -862351065299098927
+    second: Gesicht|Augenbraue lAction.001
+  - first:
+      74: -7625867261380065944
+    second: Gesicht|Augenbraue rAction.001
+  - first:
+      74: 8607804046486447512
+    second: Gesicht|Band lAction.001
+  - first:
+      74: 4647758332700296906
+    second: Gesicht|Band rAction.001
+  - first:
+      74: -4022550858480711559
+    second: Gesicht|BauchAction.001
+  - first:
+      74: -81769502456033775
+    second: Gesicht|GesichtAction.001
+  - first:
+      74: -8537908102379713321
+    second: "Gesicht|K\xF6rperAction.001"
+  - first:
+      74: -2896721985541102784
+    second: Gesicht|Lasche lAction.001
+  - first:
+      74: 2504167409766028646
+    second: Gesicht|Lasche rAction.001
+  - first:
+      74: 1805487292415496025
+    second: Gesicht|LascheAction.001
+  - first:
+      74: 510714140535781750
+    second: Gesicht|Pupille lAction.001
+  - first:
+      74: 4488904657510170301
+    second: Gesicht|Pupille r.001Action.001
+  - first:
+      74: 8566941613750122892
+    second: Auge r|Arm lAction.001
+  - first:
+      74: -9004776107083421100
+    second: Auge r|Arm rAction.001
+  - first:
+      74: -1099835303822776103
+    second: Auge r|ArmatureAction.001
+  - first:
+      74: 5358178673133716984
+    second: Auge r|Auge lAction.001
+  - first:
+      74: -5418731787779045205
+    second: Auge r|Auge rAction.001
+  - first:
+      74: 326728346139224204
+    second: Auge r|Augenbraue lAction.001
+  - first:
+      74: 5605514226761298401
+    second: Auge r|Augenbraue rAction.001
+  - first:
+      74: -7344773016440713293
+    second: Auge r|Band lAction.001
+  - first:
+      74: -4938539077956534201
+    second: Auge r|Band rAction.001
+  - first:
+      74: 2850627697914725303
+    second: Auge r|BauchAction.001
+  - first:
+      74: -1868527103452063131
+    second: Auge r|GesichtAction.001
+  - first:
+      74: -3802829992817653593
+    second: "Auge r|K\xF6rperAction.001"
+  - first:
+      74: -3863128157423541295
+    second: Auge r|Lasche lAction.001
+  - first:
+      74: -5662522367691470460
+    second: Auge r|Lasche rAction.001
+  - first:
+      74: -5884614406489682211
+    second: Auge r|LascheAction.001
+  - first:
+      74: -6371587694602114318
+    second: Auge r|Pupille lAction.001
+  - first:
+      74: -3728389939338565776
+    second: Auge r|Pupille r.001Action.001
+  - first:
+      74: -40771567342374193
+    second: Auge l|Arm lAction.001
+  - first:
+      74: 8631845301151891870
+    second: Auge l|Arm rAction.001
+  - first:
+      74: 2851393514821841136
+    second: Auge l|ArmatureAction.001
+  - first:
+      74: -5858740745741465880
+    second: Auge l|Auge lAction.001
+  - first:
+      74: 2570628037895507662
+    second: Auge l|Auge rAction.001
+  - first:
+      74: -1901486471223262867
+    second: Auge l|Augenbraue lAction.001
+  - first:
+      74: -867790627199723719
+    second: Auge l|Augenbraue rAction.001
+  - first:
+      74: 2504960082269713773
+    second: Auge l|Band lAction.001
+  - first:
+      74: 7700784515238341857
+    second: Auge l|Band rAction.001
+  - first:
+      74: -1405967290845814603
+    second: Auge l|BauchAction.001
+  - first:
+      74: 6526716539246434446
+    second: Auge l|GesichtAction.001
+  - first:
+      74: 1041602830651419380
+    second: "Auge l|K\xF6rperAction.001"
+  - first:
+      74: 4406323136556896000
+    second: Auge l|Lasche lAction.001
+  - first:
+      74: -244420504989456033
+    second: Auge l|Lasche rAction.001
+  - first:
+      74: -1234248325822184559
+    second: Auge l|LascheAction.001
+  - first:
+      74: -1445068241957386094
+    second: Auge l|Pupille lAction.001
+  - first:
+      74: -6323332803052948551
+    second: Auge l|Pupille r.001Action.001
+  - first:
+      74: -6087659010162925702
+    second: Band r|Arm lAction.001
+  - first:
+      74: -88458656342395463
+    second: Band r|Arm rAction.001
+  - first:
+      74: -6081955879723233337
+    second: Band r|ArmatureAction.001
+  - first:
+      74: 747227068907750669
+    second: Band r|Auge lAction.001
+  - first:
+      74: 825529969858388406
+    second: Band r|Auge rAction.001
+  - first:
+      74: 2024861329734820348
+    second: Band r|Augenbraue lAction.001
+  - first:
+      74: 2591898125510852727
+    second: Band r|Augenbraue rAction.001
+  - first:
+      74: 456583189909024285
+    second: Band r|Band lAction.001
+  - first:
+      74: -2664149912254839420
+    second: Band r|Band rAction.001
+  - first:
+      74: -5906086339408192220
+    second: Band r|BauchAction.001
+  - first:
+      74: -248737966414997485
+    second: Band r|GesichtAction.001
+  - first:
+      74: -8533721262276719975
+    second: "Band r|K\xF6rperAction.001"
+  - first:
+      74: 2788946803152228021
+    second: Band r|Lasche lAction.001
+  - first:
+      74: -97528684218574741
+    second: Band r|Lasche rAction.001
+  - first:
+      74: -7280202231056312827
+    second: Band r|LascheAction.001
+  - first:
+      74: -4451705133459026596
+    second: Band r|Pupille lAction.001
+  - first:
+      74: 8118651690339520499
+    second: Band r|Pupille r.001Action.001
+  - first:
+      74: 6889859180583248702
+    second: Band l|Arm lAction.001
+  - first:
+      74: 1678821822425842967
+    second: Band l|Arm rAction.001
+  - first:
+      74: -1101351217170556992
+    second: Band l|ArmatureAction.001
+  - first:
+      74: 8936664961856598638
+    second: Band l|Auge lAction.001
+  - first:
+      74: 4142178779331335758
+    second: Band l|Auge rAction.001
+  - first:
+      74: 4896446483972600362
+    second: Band l|Augenbraue lAction.001
+  - first:
+      74: -5056953167171114787
+    second: Band l|Augenbraue rAction.001
+  - first:
+      74: 6405573532620373835
+    second: Band l|Band lAction.001
+  - first:
+      74: 1232692838081587633
+    second: Band l|Band rAction.001
+  - first:
+      74: -958665034072449028
+    second: Band l|BauchAction.001
+  - first:
+      74: 5078625320140489264
+    second: Band l|GesichtAction.001
+  - first:
+      74: -4289869088248674325
+    second: "Band l|K\xF6rperAction.001"
+  - first:
+      74: -7056535764862128216
+    second: Band l|Lasche lAction.001
+  - first:
+      74: 2882390667912265379
+    second: Band l|Lasche rAction.001
+  - first:
+      74: -6896827133872163408
+    second: Band l|LascheAction.001
+  - first:
+      74: 3857741391526133687
+    second: Band l|Pupille lAction.001
+  - first:
+      74: 2941119048408366727
+    second: Band l|Pupille r.001Action.001
+  - first:
+      74: -4219573659117558410
+    second: Lasche|Arm lAction.001
+  - first:
+      74: 6665075320265555601
+    second: Lasche|Arm rAction.001
+  - first:
+      74: -532889864957489750
+    second: Lasche|ArmatureAction.001
+  - first:
+      74: 9045133995527677653
+    second: Lasche|Auge lAction.001
+  - first:
+      74: -1424783283494008695
+    second: Lasche|Auge rAction.001
+  - first:
+      74: 4472642624940791146
+    second: Lasche|Augenbraue lAction.001
+  - first:
+      74: 6377259325495479171
+    second: Lasche|Augenbraue rAction.001
+  - first:
+      74: 8786219630994787336
+    second: Lasche|Band lAction.001
+  - first:
+      74: -126489889923868682
+    second: Lasche|Band rAction.001
+  - first:
+      74: -5161492232232841977
+    second: Lasche|BauchAction.001
+  - first:
+      74: 3612534271821940875
+    second: Lasche|GesichtAction.001
+  - first:
+      74: -2749336241932220273
+    second: "Lasche|K\xF6rperAction.001"
+  - first:
+      74: -2404689692755883820
+    second: Lasche|Lasche lAction.001
+  - first:
+      74: -38960459516761023
+    second: Lasche|Lasche rAction.001
+  - first:
+      74: 647557541127696720
+    second: Lasche|LascheAction.001
+  - first:
+      74: -1784484089116443816
+    second: Lasche|Pupille lAction.001
+  - first:
+      74: -432180631947447977
+    second: Lasche|Pupille r.001Action.001
+  - first:
+      74: 4743685361266822073
+    second: Bauch|Arm lAction.001
+  - first:
+      74: 7185667182181325870
+    second: Bauch|Arm rAction.001
+  - first:
+      74: 7060977761150795822
+    second: Bauch|ArmatureAction.001
+  - first:
+      74: 5070604312801765317
+    second: Bauch|Auge lAction.001
+  - first:
+      74: 8619485519122775933
+    second: Bauch|Auge rAction.001
+  - first:
+      74: 3725985383047748090
+    second: Bauch|Augenbraue lAction.001
+  - first:
+      74: -9087386790891641314
+    second: Bauch|Augenbraue rAction.001
+  - first:
+      74: 6317229189913966069
+    second: Bauch|Band lAction.001
+  - first:
+      74: -2380970704108839038
+    second: Bauch|Band rAction.001
+  - first:
+      74: 7973527048292893532
+    second: Bauch|BauchAction.001
+  - first:
+      74: -1754762320483797946
+    second: Bauch|GesichtAction.001
+  - first:
+      74: 4000159311948276153
+    second: "Bauch|K\xF6rperAction.001"
+  - first:
+      74: 550443762602431447
+    second: Bauch|Lasche lAction.001
+  - first:
+      74: -3766444180545868997
+    second: Bauch|Lasche rAction.001
+  - first:
+      74: 8833464815100800790
+    second: Bauch|LascheAction.001
+  - first:
+      74: -4892853776437599386
+    second: Bauch|Pupille lAction.001
+  - first:
+      74: 3240493879451889236
+    second: Bauch|Pupille r.001Action.001
+  - first:
+      74: 2041435024053338303
+    second: Pupille l|Arm lAction.001
+  - first:
+      74: 5469601686938231241
+    second: Pupille l|Arm rAction.001
+  - first:
+      74: 9216724196790394474
+    second: Pupille l|ArmatureAction.001
+  - first:
+      74: -1669354420040971840
+    second: Pupille l|Auge lAction.001
+  - first:
+      74: -8858568812835178505
+    second: Pupille l|Auge rAction.001
+  - first:
+      74: 4856060471112952800
+    second: Pupille l|Augenbraue lAction.001
+  - first:
+      74: -8755852110780614127
+    second: Pupille l|Augenbraue rAction.001
+  - first:
+      74: -2418855636409277532
+    second: Pupille l|Band lAction.001
+  - first:
+      74: -5300284153402641918
+    second: Pupille l|Band rAction.001
+  - first:
+      74: -7088027242030795026
+    second: Pupille l|BauchAction.001
+  - first:
+      74: 3495221194344081525
+    second: Pupille l|GesichtAction.001
+  - first:
+      74: 2930380718727762406
+    second: "Pupille l|K\xF6rperAction.001"
+  - first:
+      74: -2824153695056609877
+    second: Pupille l|Lasche lAction.001
+  - first:
+      74: 1455963809636691224
+    second: Pupille l|Lasche rAction.001
+  - first:
+      74: 2250667815224951888
+    second: Pupille l|LascheAction.001
+  - first:
+      74: 8449529841673044763
+    second: Pupille l|Pupille lAction.001
+  - first:
+      74: -6169015272225078844
+    second: Pupille l|Pupille r.001Action.001
+  - first:
+      74: 3282707598685734609
+    second: Pupille r.001|Arm lAction.001
+  - first:
+      74: 7680328241893581646
+    second: Pupille r.001|Arm rAction.001
+  - first:
+      74: 7362562794123537388
+    second: Pupille r.001|ArmatureAction.001
+  - first:
+      74: 1728191075849863837
+    second: Pupille r.001|Auge lAction.001
+  - first:
+      74: 1280618183769468769
+    second: Pupille r.001|Auge rAction.001
+  - first:
+      74: 7623623917767183068
+    second: Pupille r.001|Augenbraue lAction.001
+  - first:
+      74: -2733469970414839620
+    second: Pupille r.001|Augenbraue rAction.001
+  - first:
+      74: -165420122375366105
+    second: Pupille r.001|Band lAction.001
+  - first:
+      74: 215873743126647029
+    second: Pupille r.001|Band rAction.001
+  - first:
+      74: 8773080449668261291
+    second: Pupille r.001|BauchAction.001
+  - first:
+      74: -3392795250093686970
+    second: Pupille r.001|GesichtAction.001
+  - first:
+      74: 3648988377548662266
+    second: "Pupille r.001|K\xF6rperAction.001"
+  - first:
+      74: -8419646275256311196
+    second: Pupille r.001|Lasche lAction.001
+  - first:
+      74: 644272775577858793
+    second: Pupille r.001|Lasche rAction.001
+  - first:
+      74: 7729231489561239449
+    second: Pupille r.001|LascheAction.001
+  - first:
+      74: -7880333943969007887
+    second: Pupille r.001|Pupille lAction.001
+  - first:
+      74: 2883041617617907299
+    second: Pupille r.001|Pupille r.001Action.001
+  - first:
+      74: 919998729579991457
+    second: Arm r|Arm lAction.001
+  - first:
+      74: -2330920050383375637
+    second: Arm r|Arm rAction.001
+  - first:
+      74: -56246679599325514
+    second: Arm r|ArmatureAction.001
+  - first:
+      74: 7339402086185146989
+    second: Arm r|Auge lAction.001
+  - first:
+      74: -1615291833518238370
+    second: Arm r|Auge rAction.001
+  - first:
+      74: -3116856053274132386
+    second: Arm r|Augenbraue lAction.001
+  - first:
+      74: -2476261206951806465
+    second: Arm r|Augenbraue rAction.001
+  - first:
+      74: -3153137897530331337
+    second: Arm r|Band lAction.001
+  - first:
+      74: 2250653382671737943
+    second: Arm r|Band rAction.001
+  - first:
+      74: -6028545938082152526
+    second: Arm r|BauchAction.001
+  - first:
+      74: 3455125832090423246
+    second: Arm r|GesichtAction.001
+  - first:
+      74: 5681011548744922661
+    second: "Arm r|K\xF6rperAction.001"
+  - first:
+      74: 3440521983007255190
+    second: Arm r|Lasche lAction.001
+  - first:
+      74: 2996408433993297273
+    second: Arm r|Lasche rAction.001
+  - first:
+      74: -944952659786223232
+    second: Arm r|LascheAction.001
+  - first:
+      74: -7745908354113666818
+    second: Arm r|Pupille lAction.001
+  - first:
+      74: -1594317591342157042
+    second: Arm r|Pupille r.001Action.001
+  - first:
+      74: 3149936850520736376
+    second: Arm l|Arm lAction.001
+  - first:
+      74: 7840249548547078438
+    second: Arm l|Arm rAction.001
+  - first:
+      74: 5365401757087435638
+    second: Arm l|ArmatureAction.001
+  - first:
+      74: 5268606590437973311
+    second: Arm l|Auge lAction.001
+  - first:
+      74: 8512706873910287653
+    second: Arm l|Auge rAction.001
+  - first:
+      74: -968665238787615947
+    second: Arm l|Augenbraue lAction.001
+  - first:
+      74: 3791407605828059668
+    second: Arm l|Augenbraue rAction.001
+  - first:
+      74: -8815025933872788237
+    second: Arm l|Band lAction.001
+  - first:
+      74: -1213757716111508270
+    second: Arm l|Band rAction.001
+  - first:
+      74: -5529621837617292514
+    second: Arm l|BauchAction.001
+  - first:
+      74: -1785437726151722551
+    second: Arm l|GesichtAction.001
+  - first:
+      74: -6435772986554536833
+    second: "Arm l|K\xF6rperAction.001"
+  - first:
+      74: 670027371117923541
+    second: Arm l|Lasche lAction.001
+  - first:
+      74: -1836558316853747568
+    second: Arm l|Lasche rAction.001
+  - first:
+      74: 3617349211251314062
+    second: Arm l|LascheAction.001
+  - first:
+      74: 1245594075953925895
+    second: Arm l|Pupille lAction.001
+  - first:
+      74: 6281997627978506685
+    second: Arm l|Pupille r.001Action.001
+  - first:
+      74: 2539190831504571542
+    second: Lasche r|Arm lAction.001
+  - first:
+      74: -7702492674259032199
+    second: Lasche r|Arm rAction.001
+  - first:
+      74: -6080468282297873130
+    second: Lasche r|ArmatureAction.001
+  - first:
+      74: -1385567252625485752
+    second: Lasche r|Auge lAction.001
+  - first:
+      74: 1535653577450973410
+    second: Lasche r|Auge rAction.001
+  - first:
+      74: 5308513712472946696
+    second: Lasche r|Augenbraue lAction.001
+  - first:
+      74: -4429493158228560724
+    second: Lasche r|Augenbraue rAction.001
+  - first:
+      74: 8689970660502870823
+    second: Lasche r|Band lAction.001
+  - first:
+      74: -4021283635581339255
+    second: Lasche r|Band rAction.001
+  - first:
+      74: -3232964422064277132
+    second: Lasche r|BauchAction.001
+  - first:
+      74: 560535637368422349
+    second: Lasche r|GesichtAction.001
+  - first:
+      74: -428686876024622652
+    second: "Lasche r|K\xF6rperAction.001"
+  - first:
+      74: -1334638910008441509
+    second: Lasche r|Lasche lAction.001
+  - first:
+      74: 281936308758161565
+    second: Lasche r|Lasche rAction.001
+  - first:
+      74: -2159788947281270297
+    second: Lasche r|LascheAction.001
+  - first:
+      74: -332041787714073017
+    second: Lasche r|Pupille lAction.001
+  - first:
+      74: 7535294906494213074
+    second: Lasche r|Pupille r.001Action.001
+  - first:
+      74: 356222905276095516
+    second: Lasche l|Arm lAction.001
+  - first:
+      74: -7809091756713683845
+    second: Lasche l|Arm rAction.001
+  - first:
+      74: 7101169627778248609
+    second: Lasche l|ArmatureAction.001
+  - first:
+      74: 1812509125838855075
+    second: Lasche l|Auge lAction.001
+  - first:
+      74: -1054891187815911993
+    second: Lasche l|Auge rAction.001
+  - first:
+      74: -2675424022479193264
+    second: Lasche l|Augenbraue lAction.001
+  - first:
+      74: -6365355220914390521
+    second: Lasche l|Augenbraue rAction.001
+  - first:
+      74: 2022556073428058951
+    second: Lasche l|Band lAction.001
+  - first:
+      74: -2064861009008775173
+    second: Lasche l|Band rAction.001
+  - first:
+      74: 898682206361460636
+    second: Lasche l|BauchAction.001
+  - first:
+      74: -6716067451053938107
+    second: Lasche l|GesichtAction.001
+  - first:
+      74: 761317358083911087
+    second: "Lasche l|K\xF6rperAction.001"
+  - first:
+      74: 7272974626265972964
+    second: Lasche l|Lasche lAction.001
+  - first:
+      74: -6217158951987617150
+    second: Lasche l|Lasche rAction.001
+  - first:
+      74: -3426958492496121703
+    second: Lasche l|LascheAction.001
+  - first:
+      74: 7901097919431780694
+    second: Lasche l|Pupille lAction.001
+  - first:
+      74: -1964378200740725216
+    second: Lasche l|Pupille r.001Action.001
+  - first:
+      74: -2346926106859334799
+    second: Augenbraue r|Arm lAction.001
+  - first:
+      74: -1091544337519611850
+    second: Augenbraue r|Arm rAction.001
+  - first:
+      74: -7330107370006606088
+    second: Augenbraue r|ArmatureAction.001
+  - first:
+      74: 8996012614481513048
+    second: Augenbraue r|Auge lAction.001
+  - first:
+      74: -6143070621239259158
+    second: Augenbraue r|Auge rAction.001
+  - first:
+      74: 4239715111360173884
+    second: Augenbraue r|Augenbraue lAction.001
+  - first:
+      74: -8617849476362674045
+    second: Augenbraue r|Augenbraue rAction.001
+  - first:
+      74: -1758416626118046679
+    second: Augenbraue r|Band lAction.001
+  - first:
+      74: 4000655494504309483
+    second: Augenbraue r|Band rAction.001
+  - first:
+      74: 8922982779549499779
+    second: Augenbraue r|BauchAction.001
+  - first:
+      74: 2824714560029713269
+    second: Augenbraue r|GesichtAction.001
+  - first:
+      74: 2365910653196722890
+    second: "Augenbraue r|K\xF6rperAction.001"
+  - first:
+      74: -1411652098216893210
+    second: Augenbraue r|Lasche lAction.001
+  - first:
+      74: 4533967409871722835
+    second: Augenbraue r|Lasche rAction.001
+  - first:
+      74: 4923748378890368471
+    second: Augenbraue r|LascheAction.001
+  - first:
+      74: -7188485272598978390
+    second: Augenbraue r|Pupille lAction.001
+  - first:
+      74: -2399276675872575287
+    second: Augenbraue r|Pupille r.001Action.001
+  - first:
+      74: 3565870985641911759
+    second: Augenbraue l|Arm lAction.001
+  - first:
+      74: 1210434400653053736
+    second: Augenbraue l|Arm rAction.001
+  - first:
+      74: 1377263313139711564
+    second: Augenbraue l|ArmatureAction.001
+  - first:
+      74: -7441705469196056717
+    second: Augenbraue l|Auge lAction.001
+  - first:
+      74: -1064982031814605346
+    second: Augenbraue l|Auge rAction.001
+  - first:
+      74: 5468999420568167849
+    second: Augenbraue l|Augenbraue lAction.001
+  - first:
+      74: 3378886253253486928
+    second: Augenbraue l|Augenbraue rAction.001
+  - first:
+      74: -7670891057955167566
+    second: Augenbraue l|Band lAction.001
+  - first:
+      74: 7824050212527082971
+    second: Augenbraue l|Band rAction.001
+  - first:
+      74: 2741292661764039850
+    second: Augenbraue l|BauchAction.001
+  - first:
+      74: 6586786718751410594
+    second: Augenbraue l|GesichtAction.001
+  - first:
+      74: -5644631208930882794
+    second: "Augenbraue l|K\xF6rperAction.001"
+  - first:
+      74: 8067073361177035628
+    second: Augenbraue l|Lasche lAction.001
+  - first:
+      74: 7715907836343166599
+    second: Augenbraue l|Lasche rAction.001
+  - first:
+      74: 4954744909469988638
+    second: Augenbraue l|LascheAction.001
+  - first:
+      74: 442078203871628721
+    second: Augenbraue l|Pupille lAction.001
+  - first:
+      74: -3670226806987714316
+    second: Augenbraue l|Pupille r.001Action.001
+  - first:
+      74: -150720613384813162
+    second: "K\xF6rper|GesichtAction.002"
+  - first:
+      74: -8485613919520897484
+    second: "K\xF6rper|GesichtAction.003"
+  - first:
+      74: 8208673767300055253
+    second: "K\xF6rper|GesichtAction.004"
+  - first:
+      74: -5948541138528734422
+    second: "K\xF6rper|GesichtAction.005"
+  - first:
+      74: 6302982464960825024
+    second: "K\xF6rper|GesichtAction.006"
+  - first:
+      74: -5816835245037292264
+    second: "K\xF6rper|GesichtAction.007"
+  - first:
+      74: 6362970101714344167
+    second: "K\xF6rper|GesichtAction.008"
+  - first:
+      74: -108878473453905216
+    second: "K\xF6rper|GesichtAction.009"
+  - first:
+      74: 7383576272578505271
+    second: "K\xF6rper|GesichtAction.010"
+  - first:
+      74: 3714154889253413184
+    second: "K\xF6rper|GesichtAction.011"
+  - first:
+      74: 6176812802498747962
+    second: "K\xF6rper|GesichtAction.012"
+  - first:
+      74: 8716652574397297541
+    second: "K\xF6rper|GesichtAction.013"
+  - first:
+      74: 2693858890628583571
+    second: "K\xF6rper|GesichtAction.014"
+  - first:
+      74: 8843677742547466702
+    second: "K\xF6rper|GesichtAction.015"
+  - first:
+      74: -8563730667562113796
+    second: "K\xF6rper|GesichtAction.016"
+  - first:
+      74: 3033643813620839310
+    second: "K\xF6rper|GesichtAction.017"
+  - first:
+      74: -5870918975898906608
+    second: Gesicht|GesichtAction.002
+  - first:
+      74: -8297943847520401879
+    second: Gesicht|GesichtAction.003
+  - first:
+      74: 960678414627409545
+    second: Gesicht|GesichtAction.004
+  - first:
+      74: -4526754011244853112
+    second: Gesicht|GesichtAction.005
+  - first:
+      74: 3026250441235299246
+    second: Gesicht|GesichtAction.006
+  - first:
+      74: 4060711705390070061
+    second: Gesicht|GesichtAction.007
+  - first:
+      74: -7224947461740899998
+    second: Gesicht|GesichtAction.008
+  - first:
+      74: 2803663106717721561
+    second: Gesicht|GesichtAction.009
+  - first:
+      74: 2763079857814549567
+    second: Gesicht|GesichtAction.010
+  - first:
+      74: -5028612394217853489
+    second: Gesicht|GesichtAction.011
+  - first:
+      74: -735514539224546338
+    second: Gesicht|GesichtAction.012
+  - first:
+      74: 4770178540334633571
+    second: Gesicht|GesichtAction.013
+  - first:
+      74: 6157431452326778926
+    second: Gesicht|GesichtAction.014
+  - first:
+      74: 3096268989952658163
+    second: Gesicht|GesichtAction.015
+  - first:
+      74: -6045433788050742222
+    second: Gesicht|GesichtAction.016
+  - first:
+      74: 604458636498187194
+    second: Gesicht|GesichtAction.017
+  - first:
+      74: 1776987452181350172
+    second: Auge r|GesichtAction.002
+  - first:
+      74: 6882037573962505458
+    second: Auge r|GesichtAction.003
+  - first:
+      74: 2105884489687046995
+    second: Auge r|GesichtAction.004
+  - first:
+      74: -2616795589406863865
+    second: Auge r|GesichtAction.005
+  - first:
+      74: -6423742572511038900
+    second: Auge r|GesichtAction.006
+  - first:
+      74: 665840366889055634
+    second: Auge r|GesichtAction.007
+  - first:
+      74: -5303640418905926188
+    second: Auge r|GesichtAction.008
+  - first:
+      74: -8021583065065449071
+    second: Auge r|GesichtAction.009
+  - first:
+      74: 7271884190193137523
+    second: Auge r|GesichtAction.010
+  - first:
+      74: 268925101890245359
+    second: Auge r|GesichtAction.011
+  - first:
+      74: -5695444102796086813
+    second: Auge r|GesichtAction.012
+  - first:
+      74: 7090066233957257921
+    second: Auge r|GesichtAction.013
+  - first:
+      74: -303089607344617546
+    second: Auge r|GesichtAction.014
+  - first:
+      74: 227180114676330423
+    second: Auge r|GesichtAction.015
+  - first:
+      74: 8427408020328163639
+    second: Auge r|GesichtAction.016
+  - first:
+      74: -2090709131076137815
+    second: Auge r|GesichtAction.017
+  - first:
+      74: -7526105143186286204
+    second: Auge l|GesichtAction.002
+  - first:
+      74: -7345270187979799919
+    second: Auge l|GesichtAction.003
+  - first:
+      74: -8989239434039469724
+    second: Auge l|GesichtAction.004
+  - first:
+      74: -7576116706927340689
+    second: Auge l|GesichtAction.005
+  - first:
+      74: 1957713590407971413
+    second: Auge l|GesichtAction.006
+  - first:
+      74: -2229349861348448846
+    second: Auge l|GesichtAction.007
+  - first:
+      74: -8329824871192893882
+    second: Auge l|GesichtAction.008
+  - first:
+      74: -596773361658572127
+    second: Auge l|GesichtAction.009
+  - first:
+      74: -471781938197062080
+    second: Auge l|GesichtAction.010
+  - first:
+      74: 1397550658807272592
+    second: Auge l|GesichtAction.011
+  - first:
+      74: -3263988792589702853
+    second: Auge l|GesichtAction.012
+  - first:
+      74: -109159173516641908
+    second: Auge l|GesichtAction.013
+  - first:
+      74: -6052094428723960933
+    second: Auge l|GesichtAction.014
+  - first:
+      74: -4044953423500030428
+    second: Auge l|GesichtAction.015
+  - first:
+      74: 1387136524685887778
+    second: Auge l|GesichtAction.016
+  - first:
+      74: 1127055758258109998
+    second: Auge l|GesichtAction.017
+  - first:
+      74: 1209187788624349055
+    second: Band r|GesichtAction.002
+  - first:
+      74: -2502725076753530734
+    second: Band r|GesichtAction.003
+  - first:
+      74: -2059465410674886012
+    second: Band r|GesichtAction.004
+  - first:
+      74: -7590797138099138485
+    second: Band r|GesichtAction.005
+  - first:
+      74: -7751676303953953162
+    second: Band r|GesichtAction.006
+  - first:
+      74: -2550247395513792070
+    second: Band r|GesichtAction.007
+  - first:
+      74: 7807613382529925742
+    second: Band r|GesichtAction.008
+  - first:
+      74: -7631761966852518954
+    second: Band r|GesichtAction.009
+  - first:
+      74: -3709163200350568275
+    second: Band r|GesichtAction.010
+  - first:
+      74: -8794307845384708612
+    second: Band r|GesichtAction.011
+  - first:
+      74: -2960083943186953435
+    second: Band r|GesichtAction.012
+  - first:
+      74: 1404768593549944698
+    second: Band r|GesichtAction.013
+  - first:
+      74: 7686847402133028662
+    second: Band r|GesichtAction.014
+  - first:
+      74: -7865538526660042312
+    second: Band r|GesichtAction.015
+  - first:
+      74: 4873157916848210226
+    second: Band r|GesichtAction.016
+  - first:
+      74: 314274641622014277
+    second: Band r|GesichtAction.017
+  - first:
+      74: 1449459408067518858
+    second: Band l|GesichtAction.002
+  - first:
+      74: -8008604838599520852
+    second: Band l|GesichtAction.003
+  - first:
+      74: 4960942036467010940
+    second: Band l|GesichtAction.004
+  - first:
+      74: -3355325711814910222
+    second: Band l|GesichtAction.005
+  - first:
+      74: -5144705155067395809
+    second: Band l|GesichtAction.006
+  - first:
+      74: 7987030128688645828
+    second: Band l|GesichtAction.007
+  - first:
+      74: 7475849655796503774
+    second: Band l|GesichtAction.008
+  - first:
+      74: -8574219808137281251
+    second: Band l|GesichtAction.009
+  - first:
+      74: 1034270085421239735
+    second: Band l|GesichtAction.010
+  - first:
+      74: -5459943948086159763
+    second: Band l|GesichtAction.011
+  - first:
+      74: -8054557052998017569
+    second: Band l|GesichtAction.012
+  - first:
+      74: -8109116529564044251
+    second: Band l|GesichtAction.013
+  - first:
+      74: -7425484627955885970
+    second: Band l|GesichtAction.014
+  - first:
+      74: 1116680754542030896
+    second: Band l|GesichtAction.015
+  - first:
+      74: -1516600455912295545
+    second: Band l|GesichtAction.016
+  - first:
+      74: 1509579944214524493
+    second: Band l|GesichtAction.017
+  - first:
+      74: 776413165011964742
+    second: Lasche|GesichtAction.002
+  - first:
+      74: 5505316960037404496
+    second: Lasche|GesichtAction.003
+  - first:
+      74: -1170345045445186042
+    second: Lasche|GesichtAction.004
+  - first:
+      74: 6414164161873990140
+    second: Lasche|GesichtAction.005
+  - first:
+      74: 564081285215558946
+    second: Lasche|GesichtAction.006
+  - first:
+      74: 6637648850121951521
+    second: Lasche|GesichtAction.007
+  - first:
+      74: -5859943556502264122
+    second: Lasche|GesichtAction.008
+  - first:
+      74: 7379774908421505058
+    second: Lasche|GesichtAction.009
+  - first:
+      74: 2979199712844933035
+    second: Lasche|GesichtAction.010
+  - first:
+      74: 6351319797436841163
+    second: Lasche|GesichtAction.011
+  - first:
+      74: 848076701462310506
+    second: Lasche|GesichtAction.012
+  - first:
+      74: -4792108220888320564
+    second: Lasche|GesichtAction.013
+  - first:
+      74: 3039349288815175038
+    second: Lasche|GesichtAction.014
+  - first:
+      74: -2705189841409973922
+    second: Lasche|GesichtAction.015
+  - first:
+      74: -3863911178139176192
+    second: Lasche|GesichtAction.016
+  - first:
+      74: -8473470901898327266
+    second: Lasche|GesichtAction.017
+  - first:
+      74: 1284009603806753468
+    second: Bauch|GesichtAction.002
+  - first:
+      74: -8067850226391940558
+    second: Bauch|GesichtAction.003
+  - first:
+      74: -5331411567229566301
+    second: Bauch|GesichtAction.004
+  - first:
+      74: -918476655574717437
+    second: Bauch|GesichtAction.005
+  - first:
+      74: 3544627266018963384
+    second: Bauch|GesichtAction.006
+  - first:
+      74: -6749437047418747015
+    second: Bauch|GesichtAction.007
+  - first:
+      74: 294677058621110555
+    second: Bauch|GesichtAction.008
+  - first:
+      74: 3287235122919916940
+    second: Bauch|GesichtAction.009
+  - first:
+      74: 1380632026872070197
+    second: Bauch|GesichtAction.010
+  - first:
+      74: -6736355682722361698
+    second: Bauch|GesichtAction.011
+  - first:
+      74: -6378390838773163607
+    second: Bauch|GesichtAction.012
+  - first:
+      74: -2272662653441448162
+    second: Bauch|GesichtAction.013
+  - first:
+      74: 4602459651037112610
+    second: Bauch|GesichtAction.014
+  - first:
+      74: 5550326241023753543
+    second: Bauch|GesichtAction.015
+  - first:
+      74: 259563550913979464
+    second: Bauch|GesichtAction.016
+  - first:
+      74: -8198515829522431449
+    second: Bauch|GesichtAction.017
+  - first:
+      74: -5180813761095933734
+    second: Arm r|GesichtAction.002
+  - first:
+      74: 8255424524928190424
+    second: Arm r|GesichtAction.003
+  - first:
+      74: 5085914965603963878
+    second: Arm r|GesichtAction.004
+  - first:
+      74: -8665822040556012243
+    second: Arm r|GesichtAction.005
+  - first:
+      74: -7696098424409268891
+    second: Arm r|GesichtAction.006
+  - first:
+      74: -2636092086983809234
+    second: Arm r|GesichtAction.007
+  - first:
+      74: -8148395452796997400
+    second: Arm r|GesichtAction.008
+  - first:
+      74: 6250592566924058135
+    second: Arm r|GesichtAction.009
+  - first:
+      74: -8921906945329720655
+    second: Arm r|GesichtAction.010
+  - first:
+      74: 6884954257707610638
+    second: Arm r|GesichtAction.011
+  - first:
+      74: 9067709292744949698
+    second: Arm r|GesichtAction.012
+  - first:
+      74: -927465221785535236
+    second: Arm r|GesichtAction.013
+  - first:
+      74: 8458660162738712160
+    second: Arm r|GesichtAction.014
+  - first:
+      74: -4033033659848712206
+    second: Arm r|GesichtAction.015
+  - first:
+      74: 4361963085965645909
+    second: Arm r|GesichtAction.016
+  - first:
+      74: -7149031952000610249
+    second: Arm r|GesichtAction.017
+  - first:
+      74: -4958012040396149315
+    second: Arm l|GesichtAction.002
+  - first:
+      74: -6920014071139074433
+    second: Arm l|GesichtAction.003
+  - first:
+      74: -8298824484454378523
+    second: Arm l|GesichtAction.004
+  - first:
+      74: -6422311933848197511
+    second: Arm l|GesichtAction.005
+  - first:
+      74: 8409459525728815102
+    second: Arm l|GesichtAction.006
+  - first:
+      74: -9147417604152228319
+    second: Arm l|GesichtAction.007
+  - first:
+      74: 3123490522541989998
+    second: Arm l|GesichtAction.008
+  - first:
+      74: 2028045446101665886
+    second: Arm l|GesichtAction.009
+  - first:
+      74: -736212343140143518
+    second: Arm l|GesichtAction.010
+  - first:
+      74: -6854102432260977701
+    second: Arm l|GesichtAction.011
+  - first:
+      74: -133883899872446573
+    second: Arm l|GesichtAction.012
+  - first:
+      74: 5717052210273119200
+    second: Arm l|GesichtAction.013
+  - first:
+      74: -7213879896857078525
+    second: Arm l|GesichtAction.014
+  - first:
+      74: 9042995988937853804
+    second: Arm l|GesichtAction.015
+  - first:
+      74: 7558212633762685969
+    second: Arm l|GesichtAction.016
+  - first:
+      74: -1879830345534872522
+    second: Arm l|GesichtAction.017
+  - first:
+      74: 6855408133726825397
+    second: Lasche r|GesichtAction.002
+  - first:
+      74: 3474713367747119398
+    second: Lasche r|GesichtAction.003
+  - first:
+      74: 4772467688312581073
+    second: Lasche r|GesichtAction.004
+  - first:
+      74: 2321380336125973450
+    second: Lasche r|GesichtAction.005
+  - first:
+      74: 5418517514427565918
+    second: Lasche r|GesichtAction.006
+  - first:
+      74: 7341555341634519554
+    second: Lasche r|GesichtAction.007
+  - first:
+      74: 3520419965977321886
+    second: Lasche r|GesichtAction.008
+  - first:
+      74: -186219541838660813
+    second: Lasche r|GesichtAction.009
+  - first:
+      74: 6726655947047417610
+    second: Lasche r|GesichtAction.010
+  - first:
+      74: -3504372731740400971
+    second: Lasche r|GesichtAction.011
+  - first:
+      74: 1400778313811932501
+    second: Lasche r|GesichtAction.012
+  - first:
+      74: -5801510449366491199
+    second: Lasche r|GesichtAction.013
+  - first:
+      74: -3287678104856354175
+    second: Lasche r|GesichtAction.014
+  - first:
+      74: 8808318132473951176
+    second: Lasche r|GesichtAction.015
+  - first:
+      74: 5702782992908865499
+    second: Lasche r|GesichtAction.016
+  - first:
+      74: 6733669101748876683
+    second: Lasche r|GesichtAction.017
+  - first:
+      74: -7158630083919899410
+    second: Lasche l|GesichtAction.002
+  - first:
+      74: -7685758402101726858
+    second: Lasche l|GesichtAction.003
+  - first:
+      74: -3108885017700584445
+    second: Lasche l|GesichtAction.004
+  - first:
+      74: 2151460686443075969
+    second: Lasche l|GesichtAction.005
+  - first:
+      74: 6622694241827690454
+    second: Lasche l|GesichtAction.006
+  - first:
+      74: 8131347867560345132
+    second: Lasche l|GesichtAction.007
+  - first:
+      74: -8562279378363898939
+    second: Lasche l|GesichtAction.008
+  - first:
+      74: 1646105314315545047
+    second: Lasche l|GesichtAction.009
+  - first:
+      74: 2276556715266932389
+    second: Lasche l|GesichtAction.010
+  - first:
+      74: 2720519829496578898
+    second: Lasche l|GesichtAction.011
+  - first:
+      74: 2164476383287225260
+    second: Lasche l|GesichtAction.012
+  - first:
+      74: -1062913241703994264
+    second: Lasche l|GesichtAction.013
+  - first:
+      74: -8019834181614583799
+    second: Lasche l|GesichtAction.014
+  - first:
+      74: 741149036357735472
+    second: Lasche l|GesichtAction.015
+  - first:
+      74: 8412679628143644334
+    second: Lasche l|GesichtAction.016
+  - first:
+      74: 1596824646664063080
+    second: Lasche l|GesichtAction.017
+  - first:
+      74: 4427041511197406563
+    second: Augenbraue r|GesichtAction.002
+  - first:
+      74: 7159837479989894688
+    second: Augenbraue r|GesichtAction.003
+  - first:
+      74: -8520254127890314428
+    second: Augenbraue r|GesichtAction.004
+  - first:
+      74: 3491149567570905339
+    second: Augenbraue r|GesichtAction.005
+  - first:
+      74: 4792627676200523957
+    second: Augenbraue r|GesichtAction.006
+  - first:
+      74: 2216044496023832513
+    second: Augenbraue r|GesichtAction.007
+  - first:
+      74: -8611727751029711170
+    second: Augenbraue r|GesichtAction.008
+  - first:
+      74: 2345251591262643060
+    second: Augenbraue r|GesichtAction.009
+  - first:
+      74: -9221617785767313513
+    second: Augenbraue r|GesichtAction.010
+  - first:
+      74: 4839753707461870705
+    second: Augenbraue r|GesichtAction.011
+  - first:
+      74: -1605858768995265670
+    second: Augenbraue r|GesichtAction.012
+  - first:
+      74: 3029805251890188469
+    second: Augenbraue r|GesichtAction.013
+  - first:
+      74: 8977302196165184936
+    second: Augenbraue r|GesichtAction.014
+  - first:
+      74: 8351451014241654896
+    second: Augenbraue r|GesichtAction.015
+  - first:
+      74: 2064311690891771253
+    second: Augenbraue r|GesichtAction.016
+  - first:
+      74: -2556755611846348410
+    second: Augenbraue r|GesichtAction.017
+  - first:
+      74: -2009678089506498714
+    second: Augenbraue l|GesichtAction.002
+  - first:
+      74: 3981948048509140238
+    second: Augenbraue l|GesichtAction.003
+  - first:
+      74: -4095778160007351523
+    second: Augenbraue l|GesichtAction.004
+  - first:
+      74: -4314476908293266792
+    second: Augenbraue l|GesichtAction.005
+  - first:
+      74: -111413240847917791
+    second: Augenbraue l|GesichtAction.006
+  - first:
+      74: 7240444217221775709
+    second: Augenbraue l|GesichtAction.007
+  - first:
+      74: 2067074102292663634
+    second: Augenbraue l|GesichtAction.008
+  - first:
+      74: 3364927916961411053
+    second: Augenbraue l|GesichtAction.009
+  - first:
+      74: -8020798384582235616
+    second: Augenbraue l|GesichtAction.010
+  - first:
+      74: 5335048703600109943
+    second: Augenbraue l|GesichtAction.011
+  - first:
+      74: -6162145256910728450
+    second: Augenbraue l|GesichtAction.012
+  - first:
+      74: 1054796092602020223
+    second: Augenbraue l|GesichtAction.013
+  - first:
+      74: 6506819712062322836
+    second: Augenbraue l|GesichtAction.014
+  - first:
+      74: -8707698693888525927
+    second: Augenbraue l|GesichtAction.015
+  - first:
+      74: -7156799500108571139
+    second: Augenbraue l|GesichtAction.016
+  - first:
+      74: -3448795110785484363
+    second: Augenbraue l|GesichtAction.017
+  - first:
+      74: -2995280144308440116
+    second: Armature|GesichtAction.002
+  - first:
+      74: 667262200863807479
+    second: Armature|GesichtAction.003
+  - first:
+      74: -3653905289091385414
+    second: Armature|GesichtAction.004
+  - first:
+      74: -250466064306786099
+    second: Armature|GesichtAction.005
+  - first:
+      74: -3606168660247092736
+    second: Armature|GesichtAction.006
+  - first:
+      74: 4716409123973784375
+    second: Armature|GesichtAction.007
+  - first:
+      74: -7115474352326292679
+    second: Armature|GesichtAction.008
+  - first:
+      74: -6728089250243095143
+    second: Armature|GesichtAction.009
+  - first:
+      74: 7226463534871218761
+    second: Armature|GesichtAction.010
+  - first:
+      74: 5009207291956386182
+    second: Armature|GesichtAction.011
+  - first:
+      74: -1232567131473411007
+    second: Armature|GesichtAction.012
+  - first:
+      74: -1740044533594572613
+    second: Armature|GesichtAction.013
+  - first:
+      74: -5771174100119433994
+    second: Armature|GesichtAction.014
+  - first:
+      74: 4387930232539700081
+    second: Armature|GesichtAction.015
+  - first:
+      74: 7667583257345669352
+    second: Armature|GesichtAction.016
+  - first:
+      74: 1733143165952024757
+    second: Armature|GesichtAction.017
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
