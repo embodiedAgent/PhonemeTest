@@ -18,35 +18,53 @@ public class Server : MonoBehaviour
     IAsyncResult status;
     HttpListener server;
 
-    private string speakQueue;
-    private string commandQueue;
-    private string expressionQueue;
-    private int expressionValue;
+    private Queue<string> speakQueue;
+    private Queue<string> commandQueue;
+    // private string speakQueue;
+    // private string commandQueue;
+    // private string expressionQueue;
+    // private int expressionValue;
     private void Start()
     {
+        speakQueue = new Queue<string>();
+        speakQueue.Clear();
+        commandQueue = new Queue<string>();
+        commandQueue.Clear();
+
         Application.runInBackground = true;
         server = new HttpListener();
         server.Prefixes.Add("http://localhost:"+port+"/");
         server.Start();
         status = server.BeginGetContext(HandleRequest, server);
     }
+
     private void Update()
     {
-        if (!String.IsNullOrEmpty(speakQueue))
+        if(speakQueue.Count > 0)
         {
-            onSpeak.Invoke(speakQueue);
-            speakQueue = "";
+            onSpeak.Invoke(speakQueue.Dequeue());
         }
-        if (!String.IsNullOrEmpty(commandQueue))
+        
+        if(commandQueue.Count > 0)
         {
-            onCommand.Invoke(commandQueue);
-            commandQueue = "";
+            onCommand.Invoke(commandQueue.Dequeue());
         }
-        if (!String.IsNullOrEmpty(expressionQueue))
-        {
-            onExpression.Invoke(expressionQueue,expressionValue);
-            expressionQueue = "";
-        }
+
+        // if (!String.IsNullOrEmpty(speakQueue))
+        // {
+        //     onSpeak.Invoke(speakQueue);
+        //     speakQueue = "";
+        // }
+        // if (!String.IsNullOrEmpty(commandQueue))
+        // {
+        //     onCommand.Invoke(commandQueue);
+        //     commandQueue = "";
+        // }
+        // if (!String.IsNullOrEmpty(expressionQueue))
+        // {
+        //     onExpression.Invoke(expressionQueue,expressionValue);
+        //     expressionQueue = "";
+        // }
     }
 
     private void HandleRequest(IAsyncResult result)
@@ -61,10 +79,18 @@ public class Server : MonoBehaviour
 
         var json = JsonUtility.FromJson<CommandRequest>(requestBody);
 
-        speakQueue = json.text;
-        commandQueue = json.command;
-        expressionQueue = json.expression;
-        expressionValue = json.expression_value;
+        string speak = json.text;
+        if (!String.IsNullOrEmpty(speak))
+            speakQueue.Enqueue(speak);
+        
+        string command = json.command;
+        if (!String.IsNullOrEmpty(command))
+            commandQueue.Enqueue(command);
+
+        // speakQueue = json.text;
+        // commandQueue = json.command;
+        // expressionQueue = json.expression;
+        // expressionValue = json.expression_value;
         response.StatusCode = 200;
         response.ContentType = "text/plain";
         response.Close();

@@ -1,8 +1,8 @@
 import requests
-url = "http://localhost:8081/"
+url = "http://localhost:8089/"
 data = {
     "command": "armlift",
-    "text": "Test",
+    "text": "Das ist ein längerer test",
     "expression": "1_Happy_",
     "expression_value": 100
 }

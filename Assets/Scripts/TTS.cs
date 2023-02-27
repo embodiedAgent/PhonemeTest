@@ -44,6 +44,7 @@ public class TTS : MonoBehaviour
 
     public void speak(string text)
     {
+        Debug.Log("Speack: " + text);
         onExpressionStop.Invoke();
         Debug.Log(voices.Item(currentVoiceIndex).GetDescription() +": "+ text);
         voice.Voice=voices.Item(currentVoiceIndex);
